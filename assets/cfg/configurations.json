@@ -1,0 +1,5 @@
+{
+  "base_url": "http://localhost:2222/",
+  "api_base_url": "http://localhost:2222/api/manager/",
+  "api_base_url_": "http://localhost:2222/api/"
+}
