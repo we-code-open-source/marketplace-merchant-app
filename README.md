@@ -1,4 +1,4 @@
-# WCOS Marketplace Flutter Customer App
+# WCOS Marketplace - Flutter Merchant (Shop) App
 
 ### Quick introduction: (WIP)
 A proper Readme is hopefully coming soon, until then, these are the files you need to edit to get the project up and running:
